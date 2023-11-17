@@ -1,0 +1,45 @@
+/* 隐藏登录 */
+.hope-c-PJLV-ibwASZs-css {
+    display: none;
+}
+
+.footer span,
+.footer a:nth-of-type(2) {
+    display: none;
+}
+
+.footer span,
+.footer a:nth-of-type(1) {
+    display: none;
+}
+
+/* 去掉 vedio */
+.hope-select__trigger.hope-c-kvTTWD.hope-c-huZphZ.hope-c-kvTTWD-hYRNAb-variant-filled.hope-c-kvTTWD-gfwxhr-size-md.hope-c-huZphZ-cIGthf-cv.hope-c-PJLV.hope-c-PJLV-ijSQbqe-css {
+    display: none !important;
+}
+
+/* 调整内边距 */
+.hope-select__trigger.hope-c-kvTTWD.hope-c-huZphZ.hope-c-kvTTWD-hYRNAb-variant-filled.hope-c-kvTTWD-gfwxhr-size-md.hope-c-huZphZ-cIGthf-cv.hope-c-PJLV.hope-c-PJLV-ijSQbqe-css {
+    margin: 0px !important;
+    padding: 0 4px !important;
+}
+
+.obj-box.hope-stack.hope-c-dhzjXW.hope-c-PJLV.hope-c-PJLV-iigjoxS-css {
+    padding: 0 !important;
+}
+
+/* 视频边距 */
+.art-video {
+    margin: 0px !important;
+    padding: 0 !important;
+}
+
+/* 全局字体 */
+* {
+    font-family: LXGW WenKai;
+    font-weight: bold;
+}
+
+body {
+    font-family: LXGW WenKai;
+}
